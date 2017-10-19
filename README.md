@@ -2,4 +2,4 @@
 test repository
 
 
-added som test to my read.md file
+added som text to my read.md file
